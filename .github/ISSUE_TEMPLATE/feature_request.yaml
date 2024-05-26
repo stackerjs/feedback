@@ -1,5 +1,5 @@
-name: "🚀 Feature Request"
-description: "I have a specific suggestion to improve Stacker!"
+name: "Feature Request"
+description: "I have a specific suggestion to improve Stacker."
 labels: ["enhancement"]
 body:
   - type: markdown
